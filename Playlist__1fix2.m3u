@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:0 CUID="30" tvg-name="TvOne (SP)" tvg-id="--" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL",TvOne (SP)
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:0 CUID="17" tvg-name="TransTV HD 4 (AG)" tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",TransTV HD 4 (AG)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
+#EXTINF:0 CUID="16" tvg-name="Trans TV 1 ON (R)" tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",Trans TV 1 ON (R)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:0 CUID="18" tvg-name="Trans 7 HD 1" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",Trans 7 HD 1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:0 CUID="19" tvg-name="Trans 7 HD 2" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",Trans 7 HD 2
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:0 CUID="25" tvg-name="METRO TV 2" tvg-id="MetroTV.my.id" tvg-logo="https://i.imgur.com/ydZkp17.jpeg" group-title="NASIONAL",METRO TV 2
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0 CUID="12" tvg-name="SCTV 1 ON" tvg-id="SCTV - [Channel 89].id" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",SCTV 1 ON
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 CUID="13" tvg-name="SCTV 3" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",SCTV 3
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
+#EXTINF:0 CUID="14" tvg-name="INDOSIAR 1 (OKT)" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR 1 (OKT)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0 CUID="15" tvg-name="ANTV 2 ON (Tidak Stabil)" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",ANTV 2 ON (Tidak Stabil)
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+#EXTINF:0 CUID="28" tvg-name="MD TV 3 ON (DULU NET TV)" tvg-id="MDTV.id" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NASIONAL",MD TV 3 ON (DULU NET TV)
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTINF:0 CUID="27" tvg-name="MD TV 1 ON (DULU NET TV)" tvg-id="NET TV - [Channel 116].id" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NASIONAL",MD TV 1 ON (DULU NET TV)
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
+#EXTINF:0 CUID="80" tvg-chno="null" tvg-name="Beritasatu" group-title="NASIONAL",Beritasatu
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:0 CUID="21" tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL",CNBC INDONESIA
+http://iptv.kilas7.com/kaukia/asdfrewq/13
+#EXTINF:0 CUID="22" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:0 CUID="23" tvg-name="Garuda TV" tvg-id=" tvg-url=" tvg-logo="https://i.imgur.com/YtOBEpp.jpeg" group-title="NASIONAL",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:0 CUID="24" tvg-name="MAGNA TV 🇮🇩" tvg-id=" tvg-name=" tvg-logo=" https://i.imgur.com/d7hjhxi.jpeg" group-title="NASIONAL",MAGNA TV 🇮🇩
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:0 CUID="20" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL",Mentari TV
+https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+#EXTINF:0 CUID="26" tvg-name="Moji (Dens)" tvg-logo="https://i.imgur.com/6y8Bum2.jpeg" group-title="NASIONAL",Moji (Dens)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 CUID="29" tvg-name="RTV 1 ON (R)" tvg-id="Rajawali TV" tvg-logo="https://i.imgur.com/LoyaFMC.jpeg" group-title="NASIONAL",RTV 1 ON (R)
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:0 CUID="31" tvg-name="Nusantara TV" tvg-id="Nusantara TV" tvg-logo="https://i.imgur.com/u3VyI5p.jpeg" group-title="NASIONAL",Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:0 CUID="32" tvg-name="TVRI 2 ON (RT)" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/coLpmrh.jpeg" group-title="NASIONAL",TVRI 2 ON (RT)
+https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+#EXTINF:0 CUID="33" tvg-name="TVRI Sport 2" tvg-id=" tvg-url=" tvg-logo="https://i.imgur.com/XZ1Y89G.jpeg" group-title="NASIONAL",TVRI Sport 2
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 CUID="34" tvg-name="SINDONEWS" tvg-id="SindoNews.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL",SINDONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:0 CUID="50" tvg-name="RodjaTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+#EXTINF:0 CUID="51" tvg-name="SurauTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",SurauTV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+#EXTINF:0 CUID="52" tvg-name="MQTV" tvg-id="MQTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+#EXTINF:0 CUID="53" tvg-name="WesalTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",WesalTV
+https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+#EXTINF:0 CUID="54" tvg-name="AshillTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AshillTV
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:0 CUID="55" tvg-name="AL QURAN AL KAREEM (MJ)" tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AL QURAN AL KAREEM (MJ)
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#EXTINF:0 CUID="56" tvg-name="CITRA MUSLIM" tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",CITRA MUSLIM
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTINF:0 CUID="57" tvg-name="Makkah TV" tvg-id="Makkah TV.ar" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Makkah TV
+http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
+#EXTINF:0 CUID="58" tvg-name="MUITV" tvg-id="MUI.TV.id" group-title="AGAMA",MUITV
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF:0 CUID="59" tvg-name="TV 9 Nusantara" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:0 CUID="60" tvg-name="RodjaTV" tvg-id="21" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+#EXTINF:0 CUID="61" tvg-name="Saudi Sunna (Medina)" tvg-id="Saudi Sunna HD.ae" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Saudi Sunna (Medina)
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8
+#EXTINF:0 CUID="79" tvg-chno="null" tvg-name="Jowo TV" group-title="DAERAH",Jowo TV
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+#EXTINF:0 CUID="1" tvg-name="Kilisuci TV Kediri" tvg-id=" tvg-url=" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:0 CUID="2" tvg-name="Surabaya TV" tvg-id=" tvg-url=" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:0 CUID="3" tvg-name="Madu TV" tvg-id=" tvg-url=" group-title="DAERAH",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:0 CUID="4" tvg-name="Bungo TV" tvg-id=" tvg-url=" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:0 CUID="5" tvg-name="DAAI TV 1" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",DAAI TV 1
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:0 CUID="6" tvg-name="Bandung TV" tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:0 CUID="7" tvg-name="BRTV" tvg-id="BadarTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
+#EXTINF:0 CUID="8" tvg-name="JAWAPOST TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JAWAPOST TV
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+#EXTINF:0 CUID="9" tvg-name="Sakti TV" tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:0 CUID="10" tvg-name="TVKU" tvg-id="TVKU" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:0 CUID="11" tvg-name="TVRI Jawa Timur" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:0 CUID="35" tvg-name="BIZNET KIDS 1 ON (R)" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",BIZNET KIDS 1 ON (R)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:0 CUID="36" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK",Mentari TV
+https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+#EXTINF:0 CUID="37" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/JVMAQA2.jpeg " group-title="ANAK",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="38" tvg-name="PBS Kids" tvg-id="pbskids.us" tvg-logo="https://i.imgur.com/qTN1GVJ.jpeg " group-title="ANAK",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0 CUID="39" tvg-name="Zoo Moo" tvg-id="zoomoo.sg" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg " group-title="ANAK",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="40" tvg-name="EBS Kids" tvg-id="ebskids.kr" tvg-logo="https://i.imgur.com/KqLYir2.jpeg " group-title="ANAK",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:0 CUID="41" tvg-name="FunPlanet" tvg-id="FunPlanet.id" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" group-title="ANAK",FunPlanet
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:0 CUID="42" tvg-name="My Kidz" tvg-logo="https://i.imgur.com/vdL9Wa6.jpeg" group-title="ANAK",My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:0 CUID="62" tvg-name="IDX" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",IDX
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+#EXTINF:0 CUID="63" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:0 CUID="64" tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC INDONESIA
+http://iptv.kilas7.com/kaukia/asdfrewq/13
+#EXTINF:0 CUID="65" tvg-name="CNBC ASIA 1" tvg-id="CNBCAsia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC ASIA 1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+#EXTINF:0 CUID="66" tvg-name="CNBC ASIA  2" tvg-id="CNBCAsia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC ASIA  2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+#EXTINF:0 CUID="67" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",FOX NEWS
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
+#EXTINF:0 CUID="68" tvg-name="BBC NEWS" tvg-id="BBCNews.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",BBC NEWS
+https://fta1-cdn-flr.visionplus.id/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+#EXTINF:0 CUID="69" tvg-name="BBC WORLD NEWS" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",BBC WORLD NEWS
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:0 CUID="70" tvg-name="DW ENGLISH" tvg-id="DWEnglish.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",DW ENGLISH
+https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#EXTINF:0 CUID="71" tvg-name="FRANCE24" tvg-id="France24English.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",FRANCE24
+https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+#EXTINF:0 CUID="72" tvg-name="TRT WORLD" tvg-id="TRT World.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",TRT WORLD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
+#EXTINF:0 CUID="73" tvg-name="CGTN" tvg-id="CGTN.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:0 CUID="74" tvg-name="WION" tvg-id="WION HD.uk" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",WION
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=lite&chname=WION
+#EXTINF:0 CUID="75" tvg-name="ASTRO AWANI" tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0 CUID="76" tvg-name="CBS NEWS" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 CUID="77" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",ABC NEWS AUSTRALIA
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:0 CUID="78" tvg-name="BLOOMBERG" tvg-id="BloombergTV.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",BLOOMBERG
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
+#EXTINF:0 CUID="43" tvg-name="ALL PLAY ENT" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",ALL PLAY ENT
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:0 CUID="44" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",Warner TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:0 CUID="45" tvg-name="AXN 2" tvg-id="AXN.id" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#EXTINF:0 CUID="46" tvg-name="THRILL" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
+#EXTINF:0 CUID="47" tvg-name="RTB (Brunei)" tvg-logo="https://i.imgur.com/UtlBqwd.png" group-title="DUNIA | BRUNEI",RTB (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:0 CUID="48" tvg-name="GO Live (Brunei)" tvg-logo="https://i.imgur.com/UtlBqwd.png" group-title="DUNIA | BRUNEI",GO Live (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:0 CUID="49" tvg-name="Aneka (Brunei)" tvg-logo="https://i.imgur.com/UtlBqwd.png" group-title="DUNIA | BRUNEI",Aneka (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
